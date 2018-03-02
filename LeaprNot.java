@@ -10,11 +10,11 @@ public class LeaprNot {
 		
 		if(a%4==0)
 		{
-			System.out.println("it is a leap year");
+			System.out.println("yes");
 		}
 		else
 		{
-			System.out.println("it is not a leap year");
+			System.out.println("no");
 		}
 
 	}
